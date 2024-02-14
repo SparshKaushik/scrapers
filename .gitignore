@@ -1,0 +1,4 @@
+# Python VirtualEnv for some scrapers
+venv/
+
+node_modules/
